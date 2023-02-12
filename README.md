@@ -21,4 +21,8 @@ C- File description
    upload_docker.sh : list of commands to upload the image to the hub
    
    run_kubernetes.sh : list of commands to run the container on a cluster in specific port
+   
+   kubernetes_out.txt : contain log of run_kubernetes.sh the file include pod name and  the port forwarding
+   
+   docker_out.txt : Log output  of make_predictions.sh
 
