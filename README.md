@@ -15,7 +15,10 @@ B- Instructions on how to run the Python scripts and web app
 
 C- File description
    Dockerfile : contain instruction to create image of the app
+   
    run_docker.sh : commands to build and run the app on a container base on image
+   
    upload_docker.sh : list of commands to upload the image to the hub
+   
    run_kubernetes.sh : list of commands to run the container on a cluster in specific port
 
